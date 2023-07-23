@@ -5,13 +5,13 @@ const CertificatesContainer = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
 
   const images = [
-    "./src/assets/img/certificates/php_avancado.PNG",
-    "./src/assets/img/certificates/inteligencia_artificial.PNG",
-    "./src/assets/img/certificates/lgpd.PNG",
-    "./src/assets/img/certificates/flutter_1.PNG",
-    "./src/assets/img/certificates/flutter_2.PNG",
-    "./src/assets/img/certificates/flutter_3.PNG",
-    "./src/assets/img/certificates/flutter_4.PNG",
+    "/portfolio_v3/img/certificates/php_avancado.PNG",
+    "/portfolio_v3/img/certificates/inteligencia_artificial.PNG",
+    "/portfolio_v3/img/certificates/lgpd.PNG",
+    "/portfolio_v3/img/certificates/flutter_1.PNG",
+    "/portfolio_v3/img/certificates/flutter_2.PNG",
+    "/portfolio_v3/img/certificates/flutter_3.PNG",
+    "/portfolio_v3/img/certificates/flutter_4.PNG",
   ];
 
   const nextSlide = () => {

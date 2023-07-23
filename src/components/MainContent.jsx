@@ -2,6 +2,7 @@ import ProjectsContainer from './ProjectsContainer'
 import SkillsTabs from './SkillsTabs'
 import CertificatesContainer from './CertificatesContainer'
 import '../styles/components/maincontent.sass'
+import FooterContainer from './FooterContainer'
 
 const MainContent = () => {
   return (
@@ -11,6 +12,7 @@ const MainContent = () => {
       <ProjectsContainer />
       <hr />
       <CertificatesContainer />
+      <FooterContainer />
     </main>
   )
 }

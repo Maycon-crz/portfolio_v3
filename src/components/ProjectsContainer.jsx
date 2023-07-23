@@ -114,6 +114,11 @@ const ProjectsContainer = () => {
           <button onClick={() => setShowDetailsSistemaEmJava(true)} className='btn-see-projects'>Ver Mais</button>
         </div>
         <div className="project-card">
+          <h3>Site Portfólio</h3>
+          <p>&emsp;Este site portfólio foi construído com o intuito de mostrar um pouco sobre os projetos que desenvolvi. As tecnologias usadas no projeto são: Javascript, ReactJS, SASS, GIT, está hospedado no GitHub Pages com acesso ao código público.</p>
+          <p>Aqui está o <a href="">Link</a> para o repositório do site portfólio.</p>
+        </div>
+        <div className="project-card">
           <h3>Aplicativo - Receitas e Drinks (Em breve)</h3>
           <p>&emsp;Após criar a API para retornar os dados do site receitas e drinks, o objetivo é criar um aplicativo Flutter para que o possa ter o acesso as receitas simplificado, podendo tamber ter uma melhor ergonomia, para que possa adotar o aplicativo como favorito.</p>          
         </div>

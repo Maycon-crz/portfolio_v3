@@ -8,7 +8,7 @@ function App() {
     <div id="portfolio">
       <h1>Maycon Nascimento de Oliveira</h1>
       <Sidebar />
-      <MainContent />
+      <MainContent />      
     </div>
   );
 }
