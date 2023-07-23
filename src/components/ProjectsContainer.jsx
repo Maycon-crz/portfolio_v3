@@ -5,47 +5,47 @@ import "../styles/components/projectsContainer.sass"
 
 const ProjectsContainer = () => {
   const recicladarteSite = [
-    "/portfolio_v3/src/assets/img/recicladarte/site/home.PNG",
-    "/portfolio_v3/src/assets/img/recicladarte/site/diy.PNG",
-    "/portfolio_v3/src/assets/img/recicladarte/site/charges.PNG",
-    "/portfolio_v3/src/assets/img/recicladarte/site/login.PNG",
-    "/portfolio_v3/src/assets/img/recicladarte/site/cadastro.PNG"
+    "/img/recicladarte/site/home.PNG",
+    "/img/recicladarte/site/diy.PNG",
+    "/img/recicladarte/site/charges.PNG",
+    "/img/recicladarte/site/login.PNG",
+    "/img/recicladarte/site/cadastro.PNG"
   ];
 
   const devPegasus = [
-    "/portfolio_v3/src/assets/img/devpegasus/home_devpegasus.PNG",
-    "/portfolio_v3/src/assets/img/devpegasus/page_text_devpegasus.PNG"
+    "/img/devpegasus/home_devpegasus.PNG",
+    "/img/devpegasus/page_text_devpegasus.PNG"
   ];
 
   const receitasEdrinks = [
-    "/portfolio_v3/src/assets/img/receitas_e_drinks/site/homeReceitas.PNG",
-    "/portfolio_v3/src/assets/img/receitas_e_drinks/site/home_mobile.PNG",
-    "/portfolio_v3/src/assets/img/receitas_e_drinks/site/home_mobile2.PNG",
-    "/portfolio_v3/src/assets/img/receitas_e_drinks/site/home_mobile3.PNG"
+    "/img/receitas_e_drinks/site/homeReceitas.PNG",
+    "/img/receitas_e_drinks/site/home_mobile.PNG",
+    "/img/receitas_e_drinks/site/home_mobile2.PNG",
+    "/img/receitas_e_drinks/site/home_mobile3.PNG"
   ];
 
   const sistemasDistribuidos = [
-    "/portfolio_v3/src/assets/img/modelo_php_flutter/app/login_v2.PNG",
-    "/portfolio_v3/src/assets/img/modelo_php_flutter/app/exemplo_edicao_de_postagem_parte_1.PNG",
-    "/portfolio_v3/src/assets/img/modelo_php_flutter/app/edicao_de_postagem_parte_2.PNG",
-    "/portfolio_v3/src/assets/img/modelo_php_flutter/app/exclusao_de_postagem_parte_1.PNG",
-    "/portfolio_v3/src/assets/img/modelo_php_flutter/site/home.PNG",
-    "/portfolio_v3/src/assets/img/modelo_php_flutter/site/janela_de_login_e_cadastro_de_usuario_parte_1.PNG",
-    "/portfolio_v3/src/assets/img/modelo_php_flutter/site/painel_de_usuario_parte_1.PNG"  
+    "/img/modelo_php_flutter/app/login_v2.PNG",
+    "/img/modelo_php_flutter/app/exemplo_edicao_de_postagem_parte_1.PNG",
+    "/img/modelo_php_flutter/app/edicao_de_postagem_parte_2.PNG",
+    "/img/modelo_php_flutter/app/exclusao_de_postagem_parte_1.PNG",
+    "/img/modelo_php_flutter/site/home.PNG",
+    "/img/modelo_php_flutter/site/janela_de_login_e_cadastro_de_usuario_parte_1.PNG",
+    "/img/modelo_php_flutter/site/painel_de_usuario_parte_1.PNG"  
   ];  
 
 
   const aplicativoRecicladArte = [
-    "/portfolio_v3/src/assets/img/recicladarte/app/home.jpg",
-    "/portfolio_v3/src/assets/img/recicladarte/app/charges.jpg",
-    "/portfolio_v3/src/assets/img/recicladarte/app/quiz.jpg",
+    "/img/recicladarte/app/home.jpg",
+    "/img/recicladarte/app/charges.jpg",
+    "/img/recicladarte/app/quiz.jpg",
   ];
 
   const sistemaJava = [
-    "/portfolio_v3/src/assets/img/sistema_java/login.PNG",
-    "/portfolio_v3/src/assets/img/sistema_java/painel.PNG",
-    "/portfolio_v3/src/assets/img/sistema_java/cadastros.jpeg",
-    "/portfolio_v3/src/assets/img/sistema_java/cadastro_de_clientes.jpeg"
+    "/img/sistema_java/login.PNG",
+    "/img/sistema_java/painel.PNG",
+    "/img/sistema_java/cadastros.jpeg",
+    "/img/sistema_java/cadastro_de_clientes.jpeg"
   ];
 
 

@@ -1,4 +1,4 @@
-import Avatar from "../assets/img/eu.png";
+import Avatar from "/img/eu.png";
 import SocialNetworks from "./SocialNetworks";
 import InformationContainer from "./InformationContainer";
 
